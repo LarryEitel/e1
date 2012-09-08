@@ -1,0 +1,17 @@
+.DS_Store
+*.pyc
+local_settings.py
+test.db
+ve/
+src/
+*.wp*
+.project
+.pydevproject
+.settings
+.sass-cache
+error.log
+*.egg-info
+*.egg
+.coverage
+build/
+dist/

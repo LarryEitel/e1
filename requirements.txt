@@ -1,0 +1,7 @@
+-e git://github.com/defnull/bottle.git#egg=bottle
+-e git://github.com/fdouetteau/bottle-mongodb-plugin.git#egg=bottle-mongodb
+-e git+git://github.com/nose-devs/nose2.git#egg=nose2
+-e git+git://github.com/mongodb/mongo-python-driver.git#egg=pymongo
+-e git+git://github.com/j2labs/schematics.git#egg=schematics
+fabric
+python-dateutil
